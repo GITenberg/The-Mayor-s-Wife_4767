@@ -1,0 +1,35 @@
+_repo: The-Mayor-s-Wife_4767
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Mrs. Charles
+    - Rohlfs, Anna Katharine Green
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: Cover; The Mayor's Wife; Copyright; CONTENTS; CHAPTER I; A SPY'S DUTY;
+  CHAPTER II; QUESTIONS; CHAPTER III; IN THE GABLE WINDOW; CHAPTER IV; LIGHTS -- SOUNDS;
+  CHAPTER V; THE STRANGE NEIGHBORS NEXT DOOR; CHAPTER VI; AT THE STAIR-HEAD; CHAPTER
+  VII; A MOVING SHADOW; CHAPTER VIII; THE PARAGRAPH; CHAPTER IX; SCRAPS; CHAPTER X;
+  A GLIMMER OF THE TRUTH; CHAPTER XI; BESS; CHAPTER XII; SEARCHINGS; CHAPTER XIII;
+  A DISCOVERY; CHAPTER XIV; I SEEK HELP; CHAPTER XV; HARDLY A COINCIDENCE; CHAPTER
+  XVI; IN THE LIBRARY; CHAPTER XVIII; THE TWO WEIRD SISTERS; CHAPTER XVIII; THE MORNING
+  NEWS; CHAPTER XIX.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: The Mayor's Wife
+url: http://www.gutenberg.org/ebooks/4767
